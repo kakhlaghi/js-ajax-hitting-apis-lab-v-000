@@ -1,2 +1,6 @@
 // your code here
-function getRepositories
+const rootURL = 'https://api.github.com';
+
+function getRepositories(){
+
+}
