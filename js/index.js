@@ -4,3 +4,8 @@ const rootURL = 'https://api.github.com';
 function getRepositories(){
 
 }
+
+
+function displayCommits(){
+  
+}
