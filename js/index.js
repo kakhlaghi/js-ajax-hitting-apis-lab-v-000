@@ -11,13 +11,13 @@ function displayCommits(){
 }
 
 function displayBranches(){
-  
+
 }
 
 function getCommits(){
-  
+
 }
 
 function getBranches(){
-  
+
 }
